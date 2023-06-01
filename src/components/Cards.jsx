@@ -30,8 +30,8 @@ const Cards = () => {
             <button className='bg-black text-[#00df9a] rounded-md font-medium w-[200px] my-6 mx-auto px-6 py-3'>Start trial</button>
         </div>
         <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-110 duration-300'>
-            <img className='w-20 mx-auto mt-[-3rem] bg-white' src={Single} alt="/" />
-            <h2 className='text-2xl font-bold text-center py-8'>Single User</h2>
+            <img className='w-20 mx-auto mt-[-3rem] bg-white' src={Triple} alt="/" />
+            <h2 className='text-2xl font-bold text-center py-8'>Triple User</h2>
             <p className='text-center text-4xl font-bold'>$149</p>
             <div className='text-center font-medium'>
                 <p className='py-2 border-b mx-8 mt-8'>500 GB Storage</p>
