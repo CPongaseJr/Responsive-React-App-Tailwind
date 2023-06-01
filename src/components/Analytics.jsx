@@ -9,10 +9,10 @@ const Analytics = () => {
             <div className='flex flex-col justify-center'>
                 <p className='text-[#00df9a] font-bold'>DATA ANALYTICS DASHBOARD</p>
                 <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Analytics Centrally</h1>
-                <p>sdhjodhasfdasodfsao;dfjsafdoldjsa dsfkjsd;fpksadlas;fdkadf  odkjpaosfkspa sfddsopfkjsd f;posdmd;spofk sdhjodhasfdasodfsaodsfksfo;sifjspf
-                    dfsakjdfs;fjdsfsdjfpsdfsdfsd waadas asd das as adadadaDASDAS AD .
+                <p> Data analytics is a discipline focused on extracting insights from data, including the analysis, 
+                  collection, organization, and storage of data, as well as the tools and techniques to do so.
                 </p>
-                <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
+                <button className='bg-black text-[#00df9a] hover:bg-[#00df9a] hover:text-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
             </div>
         </div>
       

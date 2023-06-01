@@ -11,8 +11,8 @@ const Footer = () => {
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div> 
       <h1 className='w-full text-3xl font-bold text-[#00df9a]'>JAYR.</h1>
-      <p className='py-4'>Sdhjodhasfdasodfsao;dfjsafdoldjsa dsfkjsd;fpksadlas;fdkadf  odkjpaosfkspa sfddsopfkjsd f;posdmd;spofk sdhjodhasfdasodfsaodsfksfo;sifjspf
-                    dfsakjdfs;fjdsfsdjfpsdfsdfsd waadas asd das as adadadaDASDAS AD .
+      <p className='py-4'>Data analytics help a business optimize its performance, 
+      perform more efficiently, maximize profit, or make more strategically-guided decisions.
         </p>
         <div className='flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare size={30}/>
